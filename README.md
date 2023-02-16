@@ -1,6 +1,6 @@
 # Kira
 
-Spigot plugin that helps staff with quality of life changes
+A spigot plugin that helps staff with better quality of some life changes
 
 ## Compatibility
 
