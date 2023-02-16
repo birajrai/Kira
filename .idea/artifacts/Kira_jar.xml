@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kira:jar">
+    <output-path>$PROJECT_DIR$/../Server/plugins</output-path>
+    <root id="archive" name="Kira.jar">
+      <element id="module-output" name="Kira" />
+    </root>
+  </artifact>
+</component>
